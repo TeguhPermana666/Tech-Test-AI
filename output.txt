@@ -1,0 +1,15 @@
+hello : 1
+my : 1
+name : 1
+is : 2
+teguh : 1
+permana, : 1
+this : 1
+a : 1
+test : 2
+some : 1
+result : 1
+from : 1
+did : 1
+testing : 2
+and : 1
